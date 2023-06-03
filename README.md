@@ -1,8 +1,10 @@
 # Deciphering the value behind the data.
 
 ### Where to find me
+[![Medium](https://img.shields.io/badge/Medium-@carlosalvarezh-12100E]?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlosalvarezh)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-carlosalvarezh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosalvarezh@gmail.com)
+
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
