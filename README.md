@@ -16,7 +16,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlosalvarez5)
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-carlosalvarez5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-carlosalvarez5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalvarez5)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/alvarezhenao.svg?style=social&label=Follow%20%40alvarezhenao)](ttps://www.linkedin.com/in/carlosalvarez5)
 
