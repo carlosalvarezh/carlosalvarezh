@@ -5,14 +5,21 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-carlosalvarezh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosalvarezh@gmail.com)
 
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
+[![Skype](https://img.shields.io/badge/Skype-carlos.alberto.alvarez.henao-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](carlos.alberto.alvarez.henao)
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlosalvarez5)
 &nbsp;
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/alvarezhenao.svg?style=social&label=Follow%20%40alvarezhenao)](https://twitter.com/alvarezhenao)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-carlosalvarez5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/alvarezhenao.svg?style=social&label=Follow%20%40alvarezhenao)](ttps://www.linkedin.com/in/carlosalvarez5)
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Programming skills
