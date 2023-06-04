@@ -1,17 +1,19 @@
 # Deciphering the value behind the data.
 
-### Programming skills
+## Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white&labelColor=101010)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white&labelColor=101010)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white&labelColor=101010)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white&labelColor=101010)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white&labelColor=101010)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white&labelColor=101010)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=white&labelColor=101010)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white&labelColor=101010)
+### Programming
 
-### Python Ecosystem skills
+[![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white&labelColor=101010)](https://www.gnu.org/software/gnu-c-manual/)
+[![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white&labelColor=101010)](https://fortran-lang.org/)
+[![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white&labelColor=101010)](https://julialang.org/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white&labelColor=101010)](https://www.latex-project.org/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white&labelColor=101010)](https://www.markdownguide.org/)
+[![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=white&labelColor=101010)](https://octave.org/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white&labelColor=101010)](https://www.css3.com/)
+
+### Python Ecosystem
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=white&labelColor=101010)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&labelColor=101010)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white&labelColor=101010)
