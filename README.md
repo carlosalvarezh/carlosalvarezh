@@ -7,6 +7,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC5GiZmE3GKNjvv8R6Qew0bw)
 [![LinkedIn](https://img.shields.io/badge/linkedin-carlosalvarez5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlosalvarez5)
 
+https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
+
+
+
 [![Twitter](https://img.shields.io/badge/Twitter-@alvarezhenao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/alvarezhenao)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/alvarezhenao.svg?style=social&label=Follow%20%40alvarezhenao)](https://twitter.com/alvarezhenao)
