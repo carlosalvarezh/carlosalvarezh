@@ -4,14 +4,16 @@
 [![Medium](https://img.shields.io/badge/Medium-@carlosalvarezh-12100E]?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@carlosalvarezh)
 [![Gmail](https://img.shields.io/badge/Gmail-carlosalvarezh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](carlosalvarezh@gmail.com)
 [![Skype](https://img.shields.io/badge/Skype-carlos.alberto.alvarez.henao-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white&labelColor=101010)](carlos.alberto.alvarez.henao)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC5GiZmE3GKNjvv8R6Qew0bw)
 [![LinkedIn](https://img.shields.io/badge/linkedin-carlosalvarez5-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlosalvarez5)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@alvarezhenao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](@alvarezhenao)
+[![Twitter](https://img.shields.io/badge/Twitter-@alvarezhenao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=101010)](https://twitter.com/alvarezhenao)
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/alvarezhenao.svg?style=social&label=Follow%20%40alvarezhenao)](@alvarezhenao)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/alvarezhenao.svg?style=social&label=Follow%20%40alvarezhenao)](https://twitter.com/alvarezhenao)
+
+[![Medium](https://img.shields.io/medium/url/https/medium.com/carlosalvarezh.svg?style=social&label=Follow%20%40carlosalvarezh)](https://medium.com/@carlosalvarezh)
+
+[![Gmail](https://img.shields.io/gmail/url/https/gmail.com/carlosalvarezh.svg?style=social&label=Follow%20%40carlosalvarezh)](carlosalvarezh@gmail.com)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
 
