@@ -9,7 +9,6 @@
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white&labelColor=101010)](https://www.gnu.org/software/gnu-c-manual/)
 [![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white&labelColor=101010)](https://fortran-lang.org/)
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=white&labelColor=101010)](https://octave.org/)
-[![Matlab](https://img.shields.io/badge/Matlab-darkblue?style=plastic&logo=octave&logoColor=white&labelColor=101010)](https://www.mathworks.com/)
 
 ### Python Ecosystem
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=white&labelColor=101010)](https://matplotlib.org/)
